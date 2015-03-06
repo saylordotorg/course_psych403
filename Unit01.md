@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The History and Theories of Cultural Psychology** <span
 id="1"></span> 
 *Our first unit explores the history and prevailing theories of cultural

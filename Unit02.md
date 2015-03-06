@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Cognition** <span id="2"></span> 
 *This unit focuses on how culture influences cognition (our thought
 processes).  While many of the processes of cognition are thought to be

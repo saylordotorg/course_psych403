@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Psychological Disorders** <span id="7"></span> 
 *This final unit examines the impact that specific cultures have on
 psychological disorders.  There are a number of ways in which

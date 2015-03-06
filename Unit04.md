@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Emotion** <span id="4"></span> 
 *There are a number of different theories that aim to explain why and
 how we have emotions because it is impossible to prove whether they are

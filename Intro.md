@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH403: Cultural Psychology"
 ---------------------------------------------------
 

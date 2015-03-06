@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Human Development** <span id="6"></span> 
 *Human development was once considered a completely universal process
 for all humans.  Psychologists like Erikson and Piaget defined the

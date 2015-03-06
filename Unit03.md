@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Intelligence** <span id="3"></span> 
 *Intelligence is a difficult concept to define, even within one
 culture.  In the West, the concept of “intelligence” started out as a

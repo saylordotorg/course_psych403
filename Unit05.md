@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH403: Cultural Psychology"
+course_description: "An investigation into the ways that culture can affect aspects of an individual’s psychology."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Motivation and Behavior** <span id="5"></span> 
 *Human motivation has long been considered the result of evolutionary
 processes.  In other words, we tend to be motivated by things that help
