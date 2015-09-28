@@ -169,3 +169,4 @@ broaden your basis of understanding regarding cultural constructs.
 - [Unit 6](https://legacy.saylor.org/psych403/Unit06/)
 - [Unit 7](https://legacy.saylor.org/psych403/Unit07/)
 - [Unit 8](https://legacy.saylor.org/psych403/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH403/PSYCH403-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH403/PSYCH403-FinalExam-Answers.html)
